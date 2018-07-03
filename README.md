@@ -1,4 +1,4 @@
-# react-weatherAPP
+# react-weatherApp
 
 ### Getting Started
 
